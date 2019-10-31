@@ -15,5 +15,7 @@ background-color: red;
 
     }
     p {
-        
+        color: blue;
+        text-align: center;
+        text-decoration: underline;
     }
