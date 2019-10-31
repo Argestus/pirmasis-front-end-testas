@@ -10,6 +10,11 @@ word-break: break-all;
 
 div {
 background-color: red;
+font-size: x-large;
+padding: 40px;
+width: 400px;
+margin:  40px calc( ( 100% - 400px ) / 2 );
+
 }
     h1 {
 
